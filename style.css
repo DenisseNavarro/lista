@@ -21,7 +21,8 @@ body {
     text-align: center;
 }
 
-h1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;}
 .profileContainer__message {
 
     font-family: cursive;
@@ -40,7 +41,7 @@ h1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sa
     align-items: center;
     padding: 10px;
     gap: 70px;
-    margin:15px 0;
+    margin:12px 0;
 
 }
 
