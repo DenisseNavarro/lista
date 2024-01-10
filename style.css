@@ -21,7 +21,7 @@ body {
     text-align: center;
 }
 
-
+h1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
 .profileContainer__message {
 
     font-family: cursive;
@@ -40,7 +40,8 @@ body {
     align-items: center;
     padding: 10px;
     gap: 70px;
-    margin:40px 0;
+    margin:15px 0;
+
 }
 
 .add-taskContainer__input {
@@ -49,6 +50,7 @@ body {
     border-radius: 8px;
     border: none;
     background-color: white;
+
 }
 
 .add-taskContainer__i {
